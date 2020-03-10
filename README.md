@@ -63,7 +63,7 @@ cop.summary()
 cop[:] = np.eye(8)  # in this case, this will be equivalent to an Independent Copula
 ```
 
-Most of the copulae work roughly the same way. They share pretty much the same API. The difference lies in the way they are parameterized. Read the docs to learn more about them. 😊
+Most of the copulae work roughly the same way. They share pretty much the same API. The difference lies in the way they are parameterized. Read the docs to learn more about them. 
 
 
 ## Acknowledgements
@@ -80,7 +80,7 @@ This blogpost gives a very gentle introduction to copulas. Before diving into al
 
 ## Motivations
 
-I started working on the copulae package because I couldn't find a good existing package that does multivariate copula modeling. Presently, I'm building up the package according to my needs at work. If you feel that you'll need some features, you can drop me a message. I'll see how I can schedule it. 😊
+I started working on the copulae package because I couldn't find a good existing package that does multivariate copula modeling. Presently, I'm building up the package according to my needs at work. If you feel that you'll need some features, you can drop me a message. I'll see how I can schedule it.
 
 ## TODOS
 
